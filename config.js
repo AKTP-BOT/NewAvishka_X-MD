@@ -15,7 +15,7 @@ module.exports = {
   // public = AnyOne Working
   // inbox = Only Working  Inbox
   // groups = only working in group
-  OWNER_NUMBER: process.env.OWNER_NUMBER || "94784337506",
+  OWNER_NUMBER: process.env.OWNER_NUMBER || "94788240417",
   //========================================- OTHER - CONFIGS -=====================================================================
   AUTO_VOICE: process.env.AUTO_VOICE || "true",
   ANTI_BAD_WORDS_ENABLED: process.env.ANTI_BAD_WORDS_ENABLED || "true",
@@ -48,13 +48,13 @@ module.exports = {
 //------------------------------------------------------------------------------------------------------------------
 
   
-  START_MSG: process.env.START_MSG || `🚀 *_HYPER-MD Connected Successfully!_* ✅ 
+  START_MSG: process.env.START_MSG || `🚀 *Avishka_X-MD Connected Successfully!_* ✅ 
 
---- *👨‍💻🎉 _Welcome to HYPER-MD!_* 🎉💗 
+--- *👨‍💻🎉 _Welcome to Avishka_X-MD!_* 🎉💗 
 
-*🔹 OWNER:* 94784337506
+*🔹 OWNER:* 94788240417
 
-_Thank you for using_ *👨‍💻HYPER-MD💗.*
+_Thank you for using_ *👨‍💻Avishka_X-MD💗.*
 _We're here to make your experience enjoyable and seamless._
 _If you need any help or have questions, don't hesitate to ask._ 🌝💗
 
@@ -68,10 +68,10 @@ _If you need any help or have questions, don't hesitate to ask._ 🌝💗
 
 _*👨‍💻 Enjoy your time with us! 😊*_
 
-> ©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ ꜱᴇɴᴇꜱʜ ` ,
+> powered by Avishka_X-MD  ` ,
 
-  ALIVE_IMG: process.env.ALIVE_IMG || "https://telegra.ph/file/3c64b5608dd82d33dabe8.jpg",
-  MENU_IMG: process.env.MENU_IMG || "https://telegra.ph/file/3c64b5608dd82d33dabe8.jpg",
+  ALIVE_IMG: process.env.ALIVE_IMG || "https://iili.io/2c1i67f.jpg",
+  MENU_IMG: process.env.MENU_IMG || "https://iili.io/2c1i67f.jpg",
   MENU_MSG: process.env.MENU_MSG || `Menumsg`,
     MENU_MS: process.env.MENU_MS || `menu 2`,
 
