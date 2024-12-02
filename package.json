@@ -1,12 +1,12 @@
 {
-  "name": "HYPER-MD",
+  "name": "Avishka_X-MD",
   "version": "1.0.0",
-  "description": "HYPER-MD MULTI DEVICE WHATSAPP BOT BY SAHAS TECH",
+  "description": "Avishka_X-MD MULTI DEVICE WHATSAPP BOT BY SAHAS TECH",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name HYPER-MD",
-    "stop": "pm2 stop HYPER-MD",
-    "restart": "pm2 restart HYPER-MD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name Avishka_X-MD",
+    "stop": "pm2 stop Avishka_X-MD",
+    "restart": "pm2 restart Avishka_X-MD"
   },
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
