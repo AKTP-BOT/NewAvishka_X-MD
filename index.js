@@ -164,7 +164,7 @@ async function connectToWA() {
         if (config.AUTO_VOICE === "true") {
             let {
                 data
-            } = await axios.get("https://raw.githubusercontent.com/DarkYasiyaofc/VOICE/main/Voice-Raw/FROZEN-V2");
+            } = await axios.get("https://raw.githubusercontent.com/AKTP-BOT/voice5/refs/heads/main/voice-raw/Akv5");
             for (vr in data) {
                 if (new RegExp("\\b" + vr + "\\b", 'gi').test(body)) {
                     conn.sendMessage(from, {
