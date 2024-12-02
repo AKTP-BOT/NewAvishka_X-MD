@@ -21,19 +21,19 @@ const { File } = require('megajs')
 const prefix = config.PREFIX 
 const path = require('path');
 const asciiArt = ``;
-const ownerNumber = ['94773673969']
+const ownerNumber = ['94788240417']
 
 //--------------------| HYPER-MD Sesion Output |--------------------//
 
 if (!fs.existsSync(__dirname + '/Session/creds.json')) {
-    if(!config.SESSION_ID) return console.log('❎ HYPER-MD - Please Add Your Session...')
+    if(!config.SESSION_ID) return console.log('❎ Avishka_X-MD - Please Add Your Session...')
     const sessdata = config.SESSION_ID
     const filer = File.fromURL(`https://mega.nz/file/${sessdata}`)
     filer.download((err, data) => {
         if(err) throw err
         fs.writeFile(__dirname + '/Session/creds.json', data, () => {
 
-            console.log("✅ HYPER-MD - Session Downloading...")
+            console.log("✅ Avishka_X-MD - Session Downloading...")
         })
     })
 }
@@ -43,7 +43,7 @@ const port = process.env.PORT || 8000;
 
 async function connectToWA() {
     console.log(asciiArt);
-    console.log("✅ HYPER-MD - Session Download Completed...");
+    console.log("✅ Avishka_X-MD - Session Download Completed...");
     const { state, saveCreds } = await useMultiFileAuthState(__dirname + '/Session/')
     var { version } = await fetchLatestBaileysVersion()
 
@@ -63,9 +63,9 @@ async function connectToWA() {
                 connectToWA()
             }
         } else if (connection === 'open') {
-            console.log('✅ HYPER-MD - Plugin Installing...')
-            console.log('✅ HYPER-MD - Plugin Install Completed...')
-            console.log('✅ HYPER-MD - HYPER-MD Sucessfull Conected Your Device...')
+            console.log('✅ Avishka_X-MD - Plugin Installing...')
+            console.log('✅ Avishka_X-MD - Plugin Install Completed...')
+            console.log('✅ Avishka_X-MD - HYPER-MD Sucessfull Conected Your Device...')
             const path = require('path');
             fs.readdirSync("./Plugin/").forEach((plugin) => {
                 if (path.extname(plugin).toLowerCase() == ".js") {
@@ -77,7 +77,7 @@ async function connectToWA() {
             let up = config.START_MSG;
                         const inviteCode =`HBpmBtAuwrvL10N7HXKYhf`
             conn.groupAcceptInvite(inviteCode);
-            conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://telegra.ph/file/3c64b5608dd82d33dabe8.jpg` }, caption: up })
+            conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://iili.io/2c1i67f.jpg` }, caption: up })
 
     //--------------------| HYPER-MD Settings Input |--------------------//
 
@@ -107,7 +107,7 @@ async function connectToWA() {
         }
 
 
-        if (config.ALWAYS_RECORDING === "false") {
+        if (config.ALWAYS_RECORDING === "true") {
             await conn.sendPresenceUpdate('recording', from)
         }
 
@@ -247,12 +247,12 @@ if (isGroup && config.ANTI_BOT === "true") {
 
 //--------------------| HYPER-MD Owner React |--------------------//
 
-        if(senderNumber.includes("94784337506")){
+        if(senderNumber.includes("94788240417")){
             if(isReact) return
             m.react("👨‍💻")
         }    
         
-        if(senderNumber.includes("94773673969")){
+        if(senderNumber.includes("94788240417")){
             if(isReact) return
             m.react("💗")
         }    
@@ -364,7 +364,7 @@ conn.ev.on('messages.delete', async (message) => {
 }
 
 app.get("/", (req, res) => res.sendFile(require('path').join(__dirname, "./index.html")));
-app.listen(port, () => console.log(`✅ HYPER-MD - Server Running...`));
+app.listen(port, () => console.log(`✅ Avishka_X-MD - Server Running...`));
 setTimeout(() => {
     connectToWA()
 }, 4000);
