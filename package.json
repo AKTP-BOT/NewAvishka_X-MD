@@ -1,7 +1,7 @@
 {
-   "name": "wickie-md",
+   "name": "Avishka_X-MD",
    "version": "4.3.0",
-   "description": "wikie-md - Simple whatsapp Multi Device bot based on @adiwajshing/baileys.",
+   "description": "Avishka_X-MD - Simple whatsapp Multi Device bot based on @adiwajshing/baileys.",
    "main": "index.js",
    "scripts": {
       "start": "pm2 start . --attach --name ⛦"
