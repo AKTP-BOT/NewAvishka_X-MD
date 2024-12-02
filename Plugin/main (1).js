@@ -60,7 +60,7 @@ cmd({
           forwardingScore: 999,
           isForwarded: true,
           forwardedNewsletterMessageInfo: {
-          newsletterName: 'HYPER-MD',
+          newsletterName: 'Avishka_X-MD',
           newsletterJid: "120363296605464049@newsletter",
           },
           externalAdReply: {
@@ -118,7 +118,7 @@ cmd({
 
           let desc = `👋 Hello ${pushname}
 
-👨‍💻🇱🇰 I'm HYPER-MD-V1 Whatsapp Bot
+👨‍💻🇱🇰 I'm Avishka_X-MD Whatsapp Bot
 
 > Platform :  ${os.hostname()}
 > Ram Usage : ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB
@@ -127,7 +127,7 @@ cmd({
                                                                                                   
 🐼 Have A Nice Day 🐼
 
-> ©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ ꜱᴇɴᴇꜱʜ `
+>powered by Avishka_X `
 
 
 
@@ -143,7 +143,7 @@ cmd({
           forwardingScore: 999,
           isForwarded: true,
           forwardedNewsletterMessageInfo: {
-          newsletterName: 'HYPER-MD',
+          newsletterName: 'Avishka_X-MD ',
           newsletterJid: "120363296605464049@newsletter",
           },
           externalAdReply: {
@@ -306,7 +306,7 @@ menu[commands[i].category] += `.${commands[i].pattern}\n`;
  ${menu.logo}
 ╰───────────●●►
 
-> ©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ ꜱᴇɴᴇꜱʜ `
+> ©ᴘᴏᴡᴇʀᴇᴅ ʙʏ Avishka_X-MD  `
 
 
 
@@ -322,11 +322,11 @@ menu[commands[i].category] += `.${commands[i].pattern}\n`;
           forwardingScore: 999,
           isForwarded: true,
           forwardedNewsletterMessageInfo: {
-          newsletterName: 'HYPER-MD',
+          newsletterName: 'Avishka_X-MD ',
           newsletterJid: "120363296605464049@newsletter",
           },
           externalAdReply: {
-              title: `HYPER-MD All Menu List`,
+              title: `Avishka_X-MD  All Menu List`,
               body: `https://HYPER-md-main-web.vercel.app/`,
               thumbnailUrl: `https://pomf2.lain.la/f/uzu4feg.jpg`,
               sourceUrl: ``,
@@ -376,12 +376,12 @@ cmd({
 
 > 𝗢𝗪𝗡𝗘𝗥 𝗜𝗡𝗙𝗢 
 
-⚡ᴏᴡɴᴇʀ ɴᴀᴍᴇ -: Mr Senesh Amantha (kevin)
-⚡ɴᴜᴍʙᴇʀ -: 94784337506
+⚡ᴏᴡɴᴇʀ ɴᴀᴍᴇ -: Avishka_X
+⚡ɴᴜᴍʙᴇʀ -: 94788240417
 ⚡ʏᴏᴜᴛᴜʙᴇ -: 
 ⚡ᴡʜᴀᴛꜱᴀᴘᴘ ᴄʜᴀɴɴᴇʟ-: 
 
-> ©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ ꜱᴇɴᴇꜱʜ `
+> ©powered by Avishka_X`
 
 
 
@@ -401,7 +401,7 @@ cmd({
           newsletterJid: "120363296605464049@newsletter",
           },
           externalAdReply: {
-              title: `HYPER-MD Owner Information`,
+              title: `Avishka_X-MD  Owner Information`,
               body: `https://HYPER-tech-web.vercel.app/`,
               thumbnailUrl: `https://pomf2.lain.la/f/uzu4feg.jpg`,
               sourceUrl: ``,
@@ -455,7 +455,7 @@ Youtube Channel Link:
 
 Whatsapp Channel Link: 
 
-> ©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ ꜱᴇɴᴇꜱʜ `
+> ©ᴘᴏᴡᴇʀᴇᴅ ʙʏ Avishka_X-MD  `
 
 
 
@@ -471,11 +471,11 @@ Whatsapp Channel Link:
           forwardingScore: 999,
           isForwarded: true,
           forwardedNewsletterMessageInfo: {
-          newsletterName: 'HYPER-MD',
+          newsletterName: 'Avishka_X-MD ',
           newsletterJid: "120363296605464049@newsletter",
           },
           externalAdReply: {
-              title: `HYPER-MD Support Channels`,
+              title: `Avishka_X-MD  Support Channels`,
               body: `https://HYPER-md-main-web.vercel.app/`,
               thumbnailUrl: `https://pomf2.lain.la/f/uzu4feg.jpg`,
               sourceUrl: ``,
@@ -535,7 +535,7 @@ cmd({
 
 👨‍💻◦ 
 
-> ©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ ꜱᴇɴᴇꜱʜ `
+> ©ᴘᴏᴡᴇʀᴇᴅ ʙʏ Avishka_X-MD `
 
 
 
@@ -551,11 +551,11 @@ cmd({
           forwardingScore: 999,
           isForwarded: true,
           forwardedNewsletterMessageInfo: {
-          newsletterName: 'HYPER-MD',
+          newsletterName: 'Avishka_X-MD',
           newsletterJid: "120363296605464049@newsletter",
           },
           externalAdReply: {
-              title: `HYPER-MD Repo Informations`,
+              title: `Avishka_X-MD Repo Informations`,
               body: ``,
               thumbnailUrl: `https://pomf2.lain.la/f/uzu4feg.jpg`,
               sourceUrl: ``,
@@ -603,9 +603,7 @@ cmd({
 
           let desc = `👋 𝐇𝐄𝐋𝐋𝐎𝐖 𝐓𝐇𝐄𝐈𝐑 ${senderNumber}
 
-𝐈 𝐀𝐌 𝐒𝐀𝐇𝐀𝐒-𝐌𝐃 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓
-
-𝐂𝐑𝐄𝐀𝐓𝐄𝐃 𝐁𝐘 𝐒𝐀𝐇𝐀𝐒 𝐓𝐄𝐂𝐇 (𝐒𝐄𝐍𝐄𝐒𝐇 𝐀𝐌𝐀𝐍𝐓𝐇𝐀)..
+𝐈 𝐀𝐌 Avishka_X-MD
            
 ɢɪᴛʜᴜʙ : 
              
@@ -629,11 +627,11 @@ THANK FOR USING HYPER-MD`
           forwardingScore: 999,
           isForwarded: true,
           forwardedNewsletterMessageInfo: {
-          newsletterName: 'HYPER-MD',
+          newsletterName: 'Avishka_X-MD',
           newsletterJid: "120363296605464049@newsletter",
           },
           externalAdReply: {
-              title: `HYPER-MD About`,
+              title: `Avishka_X-MD About`,
               body: `https://HYPER-md-main-web.vercel.app/`,
               thumbnailUrl: `https://pomf2.lain.la/f/uzu4feg.jpg`,
               sourceUrl: ``,
@@ -678,7 +676,7 @@ cmd({
           // Status message to be sent
         
           
-          let desc = `乂 HYPER-MD-V2 SYSTEM INFORMATION
+          let desc = `乂 Avishka_X-MD SYSTEM INFORMATION
 
 ⏰𝖱𝗎𝗇𝗍𝗂𝗆𝖾:-  ${runtime(process.uptime())}    
 📟𝖱𝖺𝗆 𝖴𝗌𝖺𝗀𝖾:- ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB
@@ -686,7 +684,7 @@ cmd({
 👨‍💻𝖮𝗐𝗇𝖾𝗋:- 𝖲𝖺𝗁𝖺𝗌 Tech   
 👾𝖵𝖾𝗋𝗌𝗂𝗈𝗇:- 2.0.0
 
-> ©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ ꜱᴇɴᴇꜱʜ `
+> ©ᴘᴏᴡᴇʀᴇᴅ ʙʏ Avishka_X-MD `
 
        
 
@@ -702,11 +700,11 @@ cmd({
           forwardingScore: 999,
           isForwarded: true,
           forwardedNewsletterMessageInfo: {
-          newsletterName: 'HYPER-MD',
+          newsletterName: 'Avishka_X-MD',
           newsletterJid: "120363296605464049@newsletter",
           },
           externalAdReply: {
-              title: `HYPER-MD System Information`,
+              title: `Avishka_X-MD System Information`,
               body: `https://HYPER-md-main-web.vercel.app/`,
               thumbnailUrl: `https://pomf2.lain.la/f/uzu4feg.jpg`,
               sourceUrl: ``,
@@ -787,7 +785,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 
 _🌟 Reply with the Number you want to select_
 
-> ©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ ꜱᴇɴᴇꜱʜ `;
+> ©ᴘᴏᴡᴇʀᴇᴅ ʙʏ Avishka_X-MD `;
 
                   // Sending the image with caption
           const vv = await conn.sendMessage(from, {
@@ -799,11 +797,11 @@ _🌟 Reply with the Number you want to select_
           forwardingScore: 999,
           isForwarded: true,
           forwardedNewsletterMessageInfo: {
-          newsletterName: 'HYPER-MD',
+          newsletterName: 'Avishka_X-MD',
           newsletterJid: "120363296605464049@newsletter",
           },
           externalAdReply: {
-              title: `HYPER-MD Menu List`,
+              title: `Avishka_X-MD Menu List`,
               body: `https://HYPER-md-main-web.vercel.app/`,
               thumbnailUrl: `https://pomf2.lain.la/f/uzu4feg.jpg`,
               sourceUrl: ``,
@@ -839,7 +837,7 @@ _🌟 Reply with the Number you want to select_
 ┝❍ .gjid
 ╰────────────────❍❍➣
 
-> ©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ ꜱᴇɴᴇꜱʜ `);
+> ©ᴘᴏᴡᴇʀᴇᴅ ʙʏ Avishka_X-MD `);
                         break;
                     case '2':               
                         reply(`╭────────────────❍❍➣
@@ -863,7 +861,7 @@ _🌟 Reply with the Number you want to select_
 ┝❍ .trt
 ╰────────────────❍❍➣
 
-> ©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ ꜱᴇɴᴇꜱʜ `);
+> ©ᴘᴏᴡᴇʀᴇᴅ ʙʏ Avishka_X-MD `);
                         break;
                     case '3':               
                         reply(`╭────────────────❍❍➣
@@ -892,7 +890,7 @@ _🌟 Reply with the Number you want to select_
 ┝❍ .aemtv7
 ╰────────────────❍❍➣
 
-> ©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ ꜱᴇɴᴇꜱʜ `);
+> ©ᴘᴏᴡᴇʀᴇᴅ ʙʏ Avishka_X-MD `);
                         break;
                     case '4':               
                         reply(`╭────────────────❍❍➣
@@ -910,7 +908,7 @@ _🌟 Reply with the Number you want to select_
 ┝❍ .weather
 ╰────────────────❍❍➣
 
-> ©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ ꜱᴇɴᴇꜱʜ `);
+> ©ᴘᴏᴡᴇʀᴇᴅ ʙʏ Avishka_X-MD `);
                         break;
                     case '5':               
                         reply(`╭────────────────❍❍➣
@@ -934,7 +932,7 @@ _🌟 Reply with the Number you want to select_
 ┝❍ .gitclone
 ╰────────────────❍❍➣
 
-> ©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ ꜱᴇɴᴇꜱʜ `);
+> ©ᴘᴏᴡᴇʀᴇᴅ ʙʏ Avishka_X-MD `);
                         break;
                     case '6':               
                         reply(`╭────────────────❍❍➣
@@ -953,7 +951,7 @@ _🌟 Reply with the Number you want to select_
 ┝❍ .menu
 ╰────────────────❍❍➣
 
-> ©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ ꜱᴇɴᴇꜱʜ `);
+> ©ᴘᴏᴡᴇʀᴇᴅ ʙʏ Avishka_X-MD `);
                         break;
                     case '7':               
                         reply(`╭────────────────❍❍➣
@@ -986,7 +984,7 @@ _🌟 Reply with the Number you want to select_
 ┝❍ .getpic
 ╰────────────────❍❍➣
 
-> ©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ ꜱᴇɴᴇꜱʜ `);
+> ©ᴘᴏᴡᴇʀᴇᴅ ʙʏ Avishka_X-MD `);
                        break;
                     case '8':               
                         reply(`╭────────────────❍❍➣
@@ -1002,7 +1000,7 @@ _🌟 Reply with the Number you want to select_
 ┝❍ .ronaldo
 ╰────────────────❍❍➣
 
-> ©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ ꜱᴇɴᴇꜱʜ `);
+> ©ᴘᴏᴡᴇʀᴇᴅ ʙʏ Avishka_X-MD `);
 
                         break;
                     case '9':               
@@ -1025,7 +1023,7 @@ _🌟 Reply with the Number you want to select_
 ┝❍ .gdmovie
 ╰────────────────❍❍➣
 
-> ©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ ꜱᴇɴᴇꜱʜ `);
+> ©ᴘᴏᴡᴇʀᴇᴅ ʙʏ Avishka_X-MD `);
 
                     break;
                     case '10':               
@@ -1050,7 +1048,7 @@ _🌟 Reply with the Number you want to select_
 ┝❍ .ss
 ╰────────────────❍❍➣
 
-> ©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ ꜱᴇɴᴇꜱʜ `);
+> ©ᴘᴏᴡᴇʀᴇᴅ ʙʏ Avishka_X-MD `);
 
                     break;
                     case '11':               
@@ -1069,7 +1067,7 @@ _🌟 Reply with the Number you want to select_
 ┝❍ .news
 ╰────────────────❍❍➣
 
-> ©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ ꜱᴇɴᴇꜱʜ `);
+> ©ᴘᴏᴡᴇʀᴇᴅ ʙʏ Avishka_X-MD `);
 
                     break;
                     case '12':               
@@ -1098,7 +1096,7 @@ _🌟 Reply with the Number you want to select_
 ┝❍ .antispam
 ╰────────────────❍❍➣
 
-> ©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ ꜱᴇɴᴇꜱʜ `);
+> ©ᴘᴏᴡᴇʀᴇᴅ ʙʏ Avishka_X-MD `);
 
                     break;
                     case '13':               
@@ -1109,7 +1107,7 @@ _🌟 Reply with the Number you want to select_
 ┝❍ .logo2
 ╰────────────────❍❍➣
 
-> ©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ ꜱᴇɴᴇꜱʜ `);
+> ©ᴘᴏᴡᴇʀᴇᴅ ʙʏ Avishka_X-MD `);
                         break;
                     default:
                         reply("Invalid option. Please select a valid option🔴");
