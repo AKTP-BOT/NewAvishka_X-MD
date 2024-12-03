@@ -1,4 +1,4 @@
-
+4
 const {
     default: makeWASocket,
     useMultiFileAuthState,
@@ -182,7 +182,7 @@ async function connectToWA() {
 
 //--------------------| HYPER-MD Anti Bad |--------------------//
 
-        if (isGroup && config.ANTI_BAD_WORDS_ENABLED) {
+        if (isGroup && config.ANTI_BAD_WORDS_ENABLED === "true") {
             if (config.ANTI_BAD_WORDS) {
                 const badWords = config.ANTI_BAD_WORDS;
                 const bodyLower = body.toLowerCase();
